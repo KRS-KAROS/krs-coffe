@@ -1,5 +1,6 @@
 ## KRS CAFFÈ ☕
 
+## 𝗞𝗥𝗦® ᴄᴏᴘʏʀɪɢʜᴛ ©2023
 
 ## FUNZIONA CON..
 * ox_target
