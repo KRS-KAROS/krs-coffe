@@ -4,7 +4,6 @@
 
 ## FUNZIONA CON..
 * ox_target
-* PolyZone
 * ox_inventory
 * ox_lib
 
